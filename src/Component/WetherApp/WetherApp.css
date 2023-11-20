@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 350px !important;
+    height: 500px;
+    background-color: #251679;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 12px;
+}
+
+.top-bar{
+    border: 0px;
+    outline: 0;
+    font-size: 20px;
+    border-radius: 40px;
+    padding: 8px;
+    padding-left: 10px;
+}
+
+.search-icon{
+    font-size: 30px !important;
+    color: black;
+    padding: 15px;
+    border-radius: 40px !important;
+    cursor: pointer;
+}
+
+.cloud-icon{
+    font-size: 80px;
+}
+
+.humiwind{
+    width: 20px;
+    height: 20px;
+}
+
+.text{
+    font-size: 14px;
+    font-weight: 400;
+}
